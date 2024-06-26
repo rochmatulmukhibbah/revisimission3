@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #555075;
+    width: 100%;
+    height: 50px;
+}
+.logo {
+    color: white;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+}
+.bars {
+    justify-content: center;
+    padding-left: 10px;
+}
+.glasses {
+    padding: 5px;
+    padding-left: 30px;
+}
+.box {
+    padding-left: 30px;
+}
+.box input {
+    border-radius: 20px;
+  width: 800px;
+  height: 30px;
+  background-color: #555075;
+}
+
+.search {
+    align-items: center;
+    display: flex;
+}
+.search > li {
+    font-size: 20px;
+    list-style-type: none;
+    padding: 15px;
+    color: rgb(184, 184, 184)
+}
+.search > li img {
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    align-items: center;
+}
+.container2 {
+    display: flex;
+}
+.sidebar {
+    background-color: #3d3759;
+    width: 300px;
+    height: 100vh;
+}
+
+.sidebar li {
+    line-height: 50px;
+    font-size: 19px;
+    color: white;
+    padding-left: 15px;
+    margin-left: 40px;
+    list-style-type: none;
+}
+
+.buton {
+    display: flex;
+    margin-left: 40px;
+    padding-left: 20px;
+}
+.ijk img{
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  margin: 10px;
+  padding-left: 40px;
+}
+.fotoButton img {
+  height: 40px;
+  object-fit: cover;
+  margin: 10px;
+  padding-left: 40px;
+  width: 40px;
+  padding-left: 40px;
+}
+.konten {
+    background-color:#312d4b;
+    width: 100%;
+    height: 100vh;
+}
+.jdl {
+    font-size: 20px;
+    padding-left: 40px;
+    margin: 10px;
+    color: white;
+}
+.wrapper {
+    padding-left: 40px;
+    display: flex;
+    margin-left: 22px;
+}
+.card1 {
+    margin: 10px;
+    background-color: #5f5a83;
+    width: 100px;
+    height: 150px;
+}
+.card1 img {
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+.card1 h5 {
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+}
+.card1 h6 {
+    color: white;
+    font-size: 10px;
+    margin-left: 10px;
+}
+.tengah {
+    font-size: 20px;
+    padding-left: 40px;
+    margin: 10px;
+    color: white; 
+}
+.bungkus {
+    padding-left: 40px;
+    display: flex;
+    margin-left: 22px;
+}
+.cardluar {
+    padding-left: 10px;
+    display: flex;
+    margin: 10px;
+    background-color: #5f5a83;
+    width: 250px;
+    height: 50px;
+}
+.cardluar img {
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.subtitle {
+    padding: 10px;
+}
+.cardluar h5 {
+    color: white;
+    margin-left: 5px;
+}
+.cardluar h6 {
+    color: white;
+    margin-left: 5px;
+}
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 768) {
+
+}
+
+@media (max-width: 500) {
+    
+}
